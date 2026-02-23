@@ -157,3 +157,12 @@ AI-based skill clustering
 Time-series trend forecasting
 
 Power BI migration version
+
+📚 Dataset Source
+
+The dataset used in this project was sourced from a public data analytics job market dataset shared by Luke Barousse.
+
+Original dataset reference:
+https://www.youtube.com/watch?v=pCJ15nGFgVg
+
+The dataset was used for educational and portfolio purposes, and was further explored, cleaned, modelled, and transformed as part of this independent analytical project.
